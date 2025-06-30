@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+opencv-python
+matplotlib
+pandas
+pytorch-lightning
+timm
+easyocr
